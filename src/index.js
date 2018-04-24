@@ -4,4 +4,8 @@ const sayHello = name => 'Hello';
 
 console.log(sayHello);
 
-$('body').css('background-color', 'red');
+const orale = require('../src/say-hello.js');
+
+console.log(orale);
+
+$('body').css('background-color', 'papayawhip');
