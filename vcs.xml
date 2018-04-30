@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/JOhnCJOhnW/Codeup-Design.gitgit@github.com:lancecrowder/codeup-java-exercises.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:lancecrowder/codeup-java-exercises.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
